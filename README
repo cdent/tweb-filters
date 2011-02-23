@@ -1,0 +1,7 @@
+The code used for a tutorial for creating TiddlyWeb filters.
+
+For sake of simplicity this plugin keeps its tests within the module
+and does not follow the tiddlywebpugins namespace.
+
+http://tiddlyweb.com/
+http://tweb-filters.tiddlyspace.com/
