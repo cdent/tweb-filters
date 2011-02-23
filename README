@@ -3,5 +3,15 @@ The code used for a tutorial for creating TiddlyWeb filters.
 For sake of simplicity this plugin keeps its tests within the module
 and does not follow the tiddlywebpugins namespace.
 
+To use add put the file in a tiddlyweb instance and then add
+'tagscount' to system_plugins in tiddlywebconfig.py:
+
+config = {
+    system_plugins: ['tagscount'],
+}
+
+Note, however, that this plugin isn't designed for use, it is designed
+for demonstration.
+
 http://tiddlyweb.com/
 http://tweb-filters.tiddlyspace.com/
